@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Platinum Membership",
+      "price": 99.99,
+      "features": [
+        "24/7 Access",
+        "Free Weights",
+        "Cardio Equipment",
+        "Personal Trainers",
+        "Locker Rooms",
+        "Sauna",
+        "Swimming Pool",
+        "Unlimited Group Classes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gold Membership",
+      "price": 74.99,
+      "features": [
+        "24/7 Access",
+        "Free Weights",
+        "Cardio Equipment",
+        "Locker Rooms",
+        "Group Classes",
+        "Yoga Studio"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Silver Membership",
+      "price": 49.99,
+      "features": [
+        "Free Weights",
+        "Cardio Equipment",
+        "Locker Rooms",
+        "Limited Group Classes"
+      ]
+    }
+    
+    
+  ]
+  
